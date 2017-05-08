@@ -1,4 +1,3 @@
-# ImageZoom
 #import "AppDelegate.h"
 #import "QYLoginVC.h"               //登录界面
 #import "QYMainViewController.h"    //tabbarVC
